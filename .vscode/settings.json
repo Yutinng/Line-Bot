@@ -1,3 +1,5 @@
 {
-    "powermode.enabled": true
+    "powermode.enabled": true,
+    "git.enabled": false,
+    "gitlens.currentLine.enabled": false
 }
